@@ -5,3 +5,4 @@ This is a playground for the lab from the Git Branching and Pull Requests lesson
 Adding changes to create my commit with the new changes.
 
 Second user change for simulating conflict.
+Change from branch B
